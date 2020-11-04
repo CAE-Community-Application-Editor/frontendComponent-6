@@ -63,7 +63,7 @@ Y({
 });
 
 
-  $('#status').on('click', function() {
+  $('#storePage').on('click', function() {
     //start parameter initiation
 
     //end parameter initiation
